@@ -12,3 +12,9 @@ print '''I am mad in love
             dou you think
                  I amd doing
                     the right thing'''
+
+print """I am mad in love
+            dou you think
+                 I amd doing
+                    the right thing"""
+
