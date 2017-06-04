@@ -6,3 +6,4 @@ double quotes
 ...
 """
 print "Hello World!"
+print 'Hello World!'
