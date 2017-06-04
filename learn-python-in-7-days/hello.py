@@ -1,2 +1,3 @@
-print "Hello World 'Mr' Bond."
-print 'old world "But" still good.'
+print 'a'
+print '\tHermit'
+print "\i know\,\ there are 'great'"
