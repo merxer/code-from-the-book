@@ -1,8 +1,6 @@
 def is_divisible(x, y):
-    if x % y == 0:
-        return True
-    else:
-        return False
+    return x % y == 0
+
 
 print(is_divisible(6, 3))
 print(is_divisible(6, 4))
