@@ -1,13 +1,14 @@
 // let
 
 function swap(x, y){
+    let temp;
     if (x > y) {
-        let temp = x;
+        temp = x;
         x = y;
         y = temp;
     }
     try {
-        console.log(temp === x); // temp, out of scope
+        console.log(temp === x);
     }catch(ex){
         console.log(ex.message);
     }
