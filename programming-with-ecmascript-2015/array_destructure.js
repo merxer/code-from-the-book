@@ -1,5 +1,5 @@
 let evens = [2, 4, 6, 8, 10];
 
-let [firstEven] = evens;
+let [first, second] = evens;
 
-console.log(firstEven);
+console.log(first, second);
