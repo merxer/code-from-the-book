@@ -1,4 +1,4 @@
 #!/bin/bash
-echo Please enter you name?
-read NAME
-echo "Hi $NAME!"
+echo Please enter firstname and lastname?
+read FIRSTNAME LASTNAME
+echo "Hi $LASTNAME, $FIRSTNAME!"
