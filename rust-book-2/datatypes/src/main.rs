@@ -1,5 +1,13 @@
 fn main() {
-    let x = 2.0;
-    let y: f32 = 3.0;
-    println!("{} - 64 bits, {} - 32 bits", x, y);
+    let sum = 5 + 10;
+
+    let difference = 95.5 - 4.3;
+
+    let product = 4 * 30;
+
+    let quotient = 56.7 / 32.2;
+
+    let reminder = 43 % 5;
+
+    print!("{} {} {} {} {}", sum, product, quotient, reminder, difference);
 }
