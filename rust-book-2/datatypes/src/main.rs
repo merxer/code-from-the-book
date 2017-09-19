@@ -1,6 +1,5 @@
 fn main() {
-    let t = true;
-    let f: bool = false;
+    let tup: (i32, f64, u8) = (500, 6.4, 1);
 
-    print!("{} {}", t, f);
+    println!("{:?}", tup)
 }
